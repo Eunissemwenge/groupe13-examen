@@ -15,7 +15,7 @@
         >
             <li class="nav-item">
                 <a
-                    href="../index.php"
+                    href="index.php"
                     class="nav-link active"
                     data-bs-toggle="tab"
                     aria-current="page"
@@ -24,12 +24,12 @@
             </li>
            
             <li class="nav-item" role="presentation">
-                <a href="contact.php" class="nav-link" data-bs-toggle="tab"
+                <a href="php/contact.php" class="nav-link" data-bs-toggle="tab"
                     >contact</a
                 >
             </li>
             <li class="nav-item" role="presentation">
-                <a href="apropos.php" class="nav-link" data-bs-toggle="tab"
+                <a href="php/apropos.php" class="nav-link" data-bs-toggle="tab"
                     >Apropos</a
                 >
             </li>
@@ -44,9 +44,7 @@
         </script>
         
     </header>
-    <center>
-        <p>Nous sommes les etudiants de l3 </p>
-        <p>09866425</p>
-    </center>
+    <p>Nous les finaliste de l'uac </p>
+    <p>Nous avons travers </p>
 </body>
 </html>

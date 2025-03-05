@@ -30,6 +30,11 @@
                 >
             </li>
             
+            <li class="nav-item" role="presentation">
+                <a href="php/apropos.php" class="nav-link" data-bs-toggle="tab"
+                    >Apropos</a
+                >
+            </li>
         </ul>
         
       
