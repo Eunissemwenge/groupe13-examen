@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <h1>Jeu du Serpent</h1>
+    <h1>SNAKE GAMES</h1>
     <canvas id="gameCanvas"></canvas>
     
     <div class="controls">
@@ -19,4 +19,5 @@
 
    <script src="hhh.js"></script>
 </body>
+
 </html>
