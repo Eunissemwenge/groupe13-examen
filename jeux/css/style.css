@@ -4,7 +4,7 @@
             font-family: Arial, sans-serif;
         }
         canvas {
-            background-color: #e42020;
+            background-color:rgb(148, 104, 23);
             display: block;
             margin: auto;
         }
@@ -19,7 +19,7 @@
             height: 60px;
             font-size: 20px;
             text-align: center;
-            background-color: lightgray;
+            background-color: rgb(181, 180, 185);
             border: none;
             cursor: pointer;
         }
